@@ -1,5 +1,6 @@
 # notas-artificiales-nada-inteligentes
 notas para la clase de inteligencia artificial con el profesor Julio Waissman
 
-![MAIN-Hello-Kitty-Hackers](https://github.com/user-attachments/assets/4c5cd4f3-51ff-4a77-851f-1cc1af0c344e)
+![jelo kiti jaker](https://github.com/user-attachments/assets/1e8d27b1-f44c-47a2-95aa-9424829d671b)
+
 
