@@ -41,6 +41,7 @@ Un agente racional es aquel que al interactuar con el entorno puede maximizar la
 1. **Medida de desempeño**
 2. **Características del entorno**
   
+Es muy importante saber ubicar la medida de desempeño ya que es necesario medir la utilidad y el rendimiendo del agente para poder maximizar su funcionalidad.  
 Además debemos de saber identificar cuáles son los sensores y actuadores que le permitirán a nuestro agente recibir las percepciones y realizar las acciones necesarias.  
 También es preciso destacar que la racionalidad no implica *perfección* sino el mejor desempeño del agente dadas las circunstancias.
 
