@@ -17,7 +17,6 @@ Este repositorio contiene apuntes de la materia de Inteligencia Artificial impar
 
 - [`Notas_2.md`](./Notas_2.md): Notas sobre árboles de juego (`game trees`) y algoritmos adversariales como Minimax. Incluye dibujitos.
 
-### 🧪 Archivos de prueba
 - [`pruebaMD.md`](./pruebaMD.md): Primeras notas sobre agentes.
 
 ---
