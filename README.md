@@ -1,6 +1,6 @@
 # Notas de Inteligencia Artificial – 2025
 
-Este repositorio contiene apuntes teóricos y visuales de la materia de Inteligencia Artificial impartida por el profesor Julio Waissman, durante el sexto semestre de la carrera de Ciencias de la Computación.
+Este repositorio contiene apuntes de la materia de Inteligencia Artificial impartida por el profesor Julio Waissman, durante el sexto semestre de la carrera de Ciencias de la Computación.
 
 ---
 
